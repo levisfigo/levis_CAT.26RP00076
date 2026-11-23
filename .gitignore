@@ -73,3 +73,6 @@ config/*.yml
 cypress/screenshots/
 
 .env
+
+# Keep local CTF key out of Git
+ctf.key
